@@ -29,3 +29,6 @@ followed by a new line, and exit with status <code>EXIT_FAILURE</code>. <br>
 You have to use malloc and free and are not allowed to use any other function from man malloc (realloc, calloc, …)</p>
 </li>
 </ul>
+
+### Authors
+- Samuel Senerwa
